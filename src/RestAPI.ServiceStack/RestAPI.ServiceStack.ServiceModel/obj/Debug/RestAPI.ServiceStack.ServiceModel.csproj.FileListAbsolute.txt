@@ -1,0 +1,5 @@
+C:\Git\Code\RestAPI.ServiceStack\RestAPI.ServiceStack\RestAPI.ServiceStack.ServiceModel\bin\Debug\RestAPI.ServiceStack.ServiceModel.dll
+C:\Git\Code\RestAPI.ServiceStack\RestAPI.ServiceStack\RestAPI.ServiceStack.ServiceModel\bin\Debug\RestAPI.ServiceStack.ServiceModel.pdb
+C:\Git\Code\RestAPI.ServiceStack\RestAPI.ServiceStack\RestAPI.ServiceStack.ServiceModel\bin\Debug\ServiceStack.Interfaces.dll
+C:\Git\Code\RestAPI.ServiceStack\RestAPI.ServiceStack\RestAPI.ServiceStack.ServiceModel\obj\Debug\RestAPI.ServiceStack.ServiceModel.dll
+C:\Git\Code\RestAPI.ServiceStack\RestAPI.ServiceStack\RestAPI.ServiceStack.ServiceModel\obj\Debug\RestAPI.ServiceStack.ServiceModel.pdb

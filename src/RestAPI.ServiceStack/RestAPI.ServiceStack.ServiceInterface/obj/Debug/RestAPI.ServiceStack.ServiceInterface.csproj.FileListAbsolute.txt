@@ -1,0 +1,16 @@
+C:\Git\Code\RestAPI.ServiceStack\RestAPI.ServiceStack\RestAPI.ServiceStack.ServiceInterface\bin\Debug\RestAPI.ServiceStack.ServiceInterface.dll
+C:\Git\Code\RestAPI.ServiceStack\RestAPI.ServiceStack\RestAPI.ServiceStack.ServiceInterface\bin\Debug\RestAPI.ServiceStack.ServiceInterface.pdb
+C:\Git\Code\RestAPI.ServiceStack\RestAPI.ServiceStack\RestAPI.ServiceStack.ServiceInterface\bin\Debug\RestAPI.ServiceStack.ServiceModel.dll
+C:\Git\Code\RestAPI.ServiceStack\RestAPI.ServiceStack\RestAPI.ServiceStack.ServiceInterface\bin\Debug\ServiceStack.Client.dll
+C:\Git\Code\RestAPI.ServiceStack\RestAPI.ServiceStack\RestAPI.ServiceStack.ServiceInterface\bin\Debug\ServiceStack.Common.dll
+C:\Git\Code\RestAPI.ServiceStack\RestAPI.ServiceStack\RestAPI.ServiceStack.ServiceInterface\bin\Debug\ServiceStack.dll
+C:\Git\Code\RestAPI.ServiceStack\RestAPI.ServiceStack\RestAPI.ServiceStack.ServiceInterface\bin\Debug\ServiceStack.Interfaces.dll
+C:\Git\Code\RestAPI.ServiceStack\RestAPI.ServiceStack\RestAPI.ServiceStack.ServiceInterface\bin\Debug\ServiceStack.Text.dll
+C:\Git\Code\RestAPI.ServiceStack\RestAPI.ServiceStack\RestAPI.ServiceStack.ServiceInterface\bin\Debug\RestAPI.ServiceStack.ServiceModel.pdb
+C:\Git\Code\RestAPI.ServiceStack\RestAPI.ServiceStack\RestAPI.ServiceStack.ServiceInterface\bin\Debug\ServiceStack.xml
+C:\Git\Code\RestAPI.ServiceStack\RestAPI.ServiceStack\RestAPI.ServiceStack.ServiceInterface\bin\Debug\ServiceStack.Client.xml
+C:\Git\Code\RestAPI.ServiceStack\RestAPI.ServiceStack\RestAPI.ServiceStack.ServiceInterface\bin\Debug\ServiceStack.Common.xml
+C:\Git\Code\RestAPI.ServiceStack\RestAPI.ServiceStack\RestAPI.ServiceStack.ServiceInterface\bin\Debug\ServiceStack.Text.xml
+C:\Git\Code\RestAPI.ServiceStack\RestAPI.ServiceStack\RestAPI.ServiceStack.ServiceInterface\obj\Debug\RestAPI.ServiceStack.ServiceInterface.csprojResolveAssemblyReference.cache
+C:\Git\Code\RestAPI.ServiceStack\RestAPI.ServiceStack\RestAPI.ServiceStack.ServiceInterface\obj\Debug\RestAPI.ServiceStack.ServiceInterface.dll
+C:\Git\Code\RestAPI.ServiceStack\RestAPI.ServiceStack\RestAPI.ServiceStack.ServiceInterface\obj\Debug\RestAPI.ServiceStack.ServiceInterface.pdb

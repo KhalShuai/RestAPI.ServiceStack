@@ -1,0 +1,10 @@
+C:\Git\Code\RestAPI.ServiceStack\RestAPI.ServiceStack\RestAPI.ServiceStack\obj\Debug\RestAPI.ServiceStack.csprojResolveAssemblyReference.cache
+C:\Git\Code\RestAPI.ServiceStack\RestAPI.ServiceStack\RestAPI.ServiceStack\bin\RestAPI.ServiceStack.dll.config
+C:\Git\Code\RestAPI.ServiceStack\RestAPI.ServiceStack\RestAPI.ServiceStack\bin\RestAPI.ServiceStack.dll
+C:\Git\Code\RestAPI.ServiceStack\RestAPI.ServiceStack\RestAPI.ServiceStack\bin\RestAPI.ServiceStack.pdb
+C:\Git\Code\RestAPI.ServiceStack\RestAPI.ServiceStack\RestAPI.ServiceStack\bin\RestAPI.ServiceStack.ServiceInterface.dll
+C:\Git\Code\RestAPI.ServiceStack\RestAPI.ServiceStack\RestAPI.ServiceStack\bin\RestAPI.ServiceStack.ServiceModel.dll
+C:\Git\Code\RestAPI.ServiceStack\RestAPI.ServiceStack\RestAPI.ServiceStack\bin\RestAPI.ServiceStack.ServiceInterface.pdb
+C:\Git\Code\RestAPI.ServiceStack\RestAPI.ServiceStack\RestAPI.ServiceStack\bin\RestAPI.ServiceStack.ServiceModel.pdb
+C:\Git\Code\RestAPI.ServiceStack\RestAPI.ServiceStack\RestAPI.ServiceStack\obj\Debug\RestAPI.ServiceStack.dll
+C:\Git\Code\RestAPI.ServiceStack\RestAPI.ServiceStack\RestAPI.ServiceStack\obj\Debug\RestAPI.ServiceStack.pdb
